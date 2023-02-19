@@ -259,6 +259,7 @@
 * [Clean Code Developer: Eine Initiative für mehr Professionalität in der Softwareentwicklung](http://clean-code-developer.de) (Online)
 * [IT-Handbuch für Fachinformatiker](http://openbook.rheinwerk-verlag.de/it_handbuch) - Sascha Kersken (Online)
 * [Objektorientierte Programmierung](http://openbook.rheinwerk-verlag.de/oop) - Bernhard Lahres, Gregor Rayman (Online)
+* [Scrum - auf dem Bierdeckel erklärt](https://www.assets.dpunkt.de/openbooks/Scrum-Bierdeckel-2A.pdf) - Stefan Roock (PDF)
 * [Scrum und XP im harten Projektalltag](https://res.infoq.com/news/2007/06/scrum-xp-book/en/resources/ScrumAndXpFromTheTrenchesonline_German.pdf) - Henrik Kniberg (PDF)
 
 
